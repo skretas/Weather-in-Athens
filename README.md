@@ -7,8 +7,10 @@
 ## This project has 5 steps 
 
 ### Obtain the data
-- Data downloaded from the National Oceanic and Atmospheric Administration's National Centers for Environmental Information
+- Data downloaded from the National Oceanic and Atmospheric Administration's National Centers for Environmental Information https://www.ncdc.noaa.gov/cdo-web/ 
+and specifically https://www.ncdc.noaa.gov/cdo-web/search (2757512.csv)
 - Check the completeness of the data.
+- To fill in any missing data we will use an alternative dataset available from https://data.hellenicdataservice.gr/dataset/66e1c19a-7b0e-456f-b465-b301a1130e3f (athens.csv) this dataset covers only the period from 2010-2019.
 
 ## Deviation of Summer Temperatures
 - We will create a graph, using a baseline of 1974-1999. The line that runs through the graph is the 10 years rolling avarege of the deviation from the mean.
